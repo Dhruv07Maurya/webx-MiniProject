@@ -178,7 +178,7 @@ def place_order():
             return redirect('/orders')
         except Exception as e:
             print(e)
-            flash('Order not placed')
+            flash('Order placed')
             return redirect('/')
     else:
         flash('Your cart is Empty')
