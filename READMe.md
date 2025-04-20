@@ -7,8 +7,7 @@
 📌Customers can search for goods
 📌Add them to their cart
 📌Payment Gateway Functionality
-📌Admins can regulate shop products e.g stock level
-📌Admins can change order status
+📌Admins can regulate shop products e.g stock 
 
 
 OVERVIEW
